@@ -1,0 +1,21 @@
+[
+    {
+        "id":3,
+        "name": "HUMANMADE WALLET",
+        "content":"nature leather",
+        "price":20000
+    },
+     {
+        "id":4,
+        "name": "HUMANMADE KEYCHARM",
+        "content":"hearts & rabbit",
+        "price":40000
+    },
+     {
+        "id":5,
+        "name": "HUMANMADE JACKET",
+        "content":"for good luck",
+        "price":200000
+    }
+    
+]
